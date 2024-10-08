@@ -11,9 +11,6 @@ The Smart Office Facility Management System is a console-based application desig
 - **Occupancy Detection:** Detect room occupancy through sensors that register when at least two people enter a room.
 - **Automatic Room Release:** Automatically release bookings for unoccupied rooms after 5 minutes.
 - **Light and AC Control:** Automatically turn off lights and air conditioning when the room is not occupied.
-- **(Optional) Room Usage Statistics:** Provide a summary of room usage statistics.
-- **(Optional) User Authentication:** Restrict access to booking and configuration features.
-- **(Optional) Notification System:** Notify users via email or SMS when their booked room is released automatically.
 
 ## Design Patterns Used
 
